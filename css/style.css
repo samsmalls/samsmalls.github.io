@@ -405,7 +405,7 @@ footer{
     padding-top: 5px;
     margin-top: 25px;
     padding-bottom: 25px; 
-    font-size: 3rem;
+    font-size: 1rem;
 }
 
 
@@ -422,7 +422,7 @@ footer{
    
 }
 .contacts ul li {
-    font-size: 2rem;
+    font-size: 1rem;
     margin: 10px 0;
     padding: 10px;
     display: flex;
@@ -449,7 +449,7 @@ footer{
     padding-top: 10px;
     margin-top: 25px;
     padding-bottom: 25px;
-    font-size: 2rem;
+    font-size: 1rem;
     max-width: 100%;
 }
 
@@ -469,7 +469,7 @@ footer{
     padding-top: 5px;
     margin-top: 25px;
     padding-bottom: 25px; 
-    font-size: 2rem;
+    font-size: 1rem;
 }
 
 
@@ -486,7 +486,7 @@ footer{
    
 }
 .contacts ul li {
-    font-size: 2rem;
+    font-size: 1rem;
     margin: 10px 0;
     padding: 10px;
     display: flex;
@@ -513,7 +513,7 @@ footer{
     padding-top: 10px;
     margin-top: 25px;
     padding-bottom: 25px;
-    font-size: 2rem;
+    font-size: 1rem;
     max-width: 100%;
 }
     
@@ -523,7 +523,7 @@ footer{
     padding-top: 5px;
     margin-top: 25px;
     padding-bottom: 25px;
-    font-size: 2rem;
+    font-size: 1rem;
     padding: 10px;
     max-width: 100%;
 
@@ -549,7 +549,7 @@ footer{
     padding-top: 5px;
     margin-top: 25px;
     padding-bottom: 25px; 
-    font-size: 2rem;
+    font-size: 1rem;
 }
 
 
@@ -566,7 +566,7 @@ footer{
    
 }
 .contacts ul li {
-    font-size: 2rem;
+    font-size: 1rem;
     margin: 10px 0;
     padding: 10px;
     display: flex;
@@ -751,7 +751,7 @@ nav a:any-link{
 }
 
 footer {
-    font-size: 4rem;
+    font-size: 3rem;
 }
 }
 
