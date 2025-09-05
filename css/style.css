@@ -8,7 +8,7 @@ background-color: burlywood;
 
 html{
     scroll-behavior: smooth;
-    font-size: 100%;
+    font-size: 16px;
 }
 
 html, body{
@@ -164,7 +164,7 @@ main{
     justify-content:center;
     align-items:center;
     padding-left:20px;
-    font-size: 10rem;
+    font-size: 1.1rem;
     margin-top: 5rem;
     text-align: center;
     max-width: 100%;
@@ -224,6 +224,20 @@ main{
     padding-top: 5px;
     margin-top: 25px;
     padding-bottom: 25px; 
+}
+
+.about,
+.main-skills,
+.work {
+    font-size: 1.2rem;
+    line-height: 1.6;
+}
+
+.contacts ul li {
+    font-size: 1rem; /* ~16px */
+}
+footer {
+    font-size: 1rem; /* ~16px */
 }
 
 
@@ -754,6 +768,7 @@ footer {
     font-size: 3rem;
 }
 }
+
 
 
 
